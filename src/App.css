@@ -1,0 +1,16 @@
+html,
+body,
+#root,
+.app-background {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.app-background {
+  background: linear-gradient(135deg, #b3cde0 0%, #dec3e0 100%);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
